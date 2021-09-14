@@ -1,6 +1,8 @@
 ---
 date: "2021-09-13T21:48:51-07:00"
-title: About
+title: Homepage
+disable_mathjax: true
+disable_highlight: true
 ---
 
 **人生就像是激起的一朵浪花，转瞬即逝，却也希望飞舞的日子里既能经历人性的可爱，也能经历物性的神奇。**
