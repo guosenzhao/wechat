@@ -1,6 +1,6 @@
-baseurl: /
+baseurl: "https://gswechatarticle.netlify.app/"
 languageCode: en-us
-title: A Hugo website
+title: 今日之森
 theme: hugo-ivy
 googleAnalytics: ''
 disqusShortname: ''
@@ -14,16 +14,55 @@ permalinks:
   post: /:year/:month/:day/:slug/
 menu:
   main:
+    - name: 随笔
+      url: /informal-essay
+      weight: 140
+    - name: 基因家族分析
+      url: /gene-family-analysis
+      weight: 50
+    - name: Linux
+      url: /linux
+      weight: 110
+    - name: 蛋白互作验证实验原理
+      url: /protein-protein-interaction-experiment
+      weight: 40
+    - name: 怪圈
+      url: /guaiquan
+      weight: 100
+    - name: 生物信息学
+      url: /bioinfomatics
+      weight: 60
+    - name: 基因组
+      url: /genome
+      weight: 70
+    - name: 军旅生涯
+      url: /Military-career
+      weight: 150
+    - name: R
+      url: /R
+      weight: 120
+    - name: 文献阅读
+      url: /Reading
+      weight: 90
+    - name: 跑步
+      url: /Running
+      weight: 130
+    - name: 科学史
+      url: /science-history
+      weight: 80
+    - name: 实验技能与日常技巧
+      url: /skill
+      weight: 30
+    - name: 分子生物学实验原理
+      url: /the-principle-of-molecular-biology
+      weight: 20
     - name: About
-      url: /about/
-    - name: GitHub
-      url: https://github.com/rstudio/blogdown
-    - name: Twitter
-      url: https://twitter.com/rstudio
+      url: /about
+      weight: 10
 params:
   MathJaxCDN: //cdnjs.cloudflare.com/ajax/libs
   MathJaxVersion: 2.7.5
-  description: A website built through Hugo and blogdown.
+  description: 记录科研路上的点点滴滴。
   favicon: favicon.ico
   highlightjsCDN: //cdnjs.cloudflare.com/ajax/libs
   highlightjsLang:
@@ -34,7 +73,7 @@ params:
   logo:
     alt: Logo
     height: 50
-    url: logo.png
+    url: /assets/images/logo.png
     width: 50
 markup:
   defaultMarkdownHandler: goldmark
