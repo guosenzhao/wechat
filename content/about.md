@@ -1,6 +1,6 @@
 ---
 date: "2021-09-13T21:48:51-07:00"
-title: Homepage
+title: About
 disable_mathjax: true
 disable_highlight: true
 ---

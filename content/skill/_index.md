@@ -10,8 +10,3 @@ title: Skills
 toc: true
 type: docs
 ---
-
-
-## SJKdlasjdfalcfjbsvi
-sadjkajakskasjgbedvusalk
-sadfckjas
