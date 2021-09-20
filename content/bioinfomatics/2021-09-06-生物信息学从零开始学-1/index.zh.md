@@ -26,6 +26,8 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
+utterances: true
+
 ---
 # 森言森语 
 >有一个现象蛮有趣，以前在东北的时候，每天都要奔跑，定期还要考核，偶尔5公里跑进21分半的时候，还很沾沾自喜。后来我可以以很快的速度跑完30公里或更远，甚至5公里可以跑进18分30秒的时候，反而觉得平静。

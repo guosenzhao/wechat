@@ -82,3 +82,7 @@ markup:
   goldmark:
     renderer:
       unsafe: yes
+algolia:
+  index: "comment"
+  key: "b754735495bb7bef2b29ec4af766d375"
+  appID: "ZZH3Z9P1ZT"
