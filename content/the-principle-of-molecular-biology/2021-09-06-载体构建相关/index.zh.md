@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "2021 09 06 载体构建相关"
+title: "载体构建相关"
 subtitle: ""
 summary: ""
 authors: []

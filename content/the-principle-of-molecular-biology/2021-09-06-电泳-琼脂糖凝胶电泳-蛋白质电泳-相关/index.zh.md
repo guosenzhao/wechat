@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "2021 09 06 电泳 琼脂糖凝胶电泳 蛋白质电泳 相关"
+title: "电泳 琼脂糖凝胶电泳 蛋白质电泳 相关"
 subtitle: ""
 summary: ""
 authors: []

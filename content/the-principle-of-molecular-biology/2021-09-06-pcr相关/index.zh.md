@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "2021 09 06 Pcr相关"
+title: "Pcr相关"
 subtitle: ""
 summary: ""
 authors: []

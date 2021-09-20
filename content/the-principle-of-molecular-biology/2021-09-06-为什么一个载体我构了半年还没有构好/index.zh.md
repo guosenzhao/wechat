@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "2021 09 06 为什么一个载体我构了半年还没有构好"
+title: "为什么一个载体我构了半年还没有构好"
 subtitle: ""
 summary: ""
 authors: []

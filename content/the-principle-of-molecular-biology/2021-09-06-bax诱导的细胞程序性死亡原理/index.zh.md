@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "2021 09 06 Bax诱导的细胞程序性死亡原理"
+title: "Bax诱导的细胞程序性死亡原理"
 subtitle: ""
 summary: ""
 authors: []

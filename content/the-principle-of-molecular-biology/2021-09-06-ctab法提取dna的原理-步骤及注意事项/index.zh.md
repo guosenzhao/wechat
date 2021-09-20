@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "2021 09 06 Ctab法提取dna的原理 步骤及注意事项"
+title: "Ctab法提取dna的原理 步骤及注意事项"
 subtitle: ""
 summary: ""
 authors: []

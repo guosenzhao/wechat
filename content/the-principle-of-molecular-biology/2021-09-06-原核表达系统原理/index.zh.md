@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "2021 09 06 原核表达系统原理"
+title: "原核表达系统原理"
 subtitle: ""
 summary: ""
 authors: []

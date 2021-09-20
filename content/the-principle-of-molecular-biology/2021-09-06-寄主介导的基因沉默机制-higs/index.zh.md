@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "2021 09 06 寄主介导的基因沉默机制 Higs"
+title: "寄主介导的基因沉默机制 Higs"
 subtitle: ""
 summary: ""
 authors: []

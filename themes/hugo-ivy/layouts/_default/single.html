@@ -9,3 +9,20 @@
 {{ end }}
 
 {{ partial "footer.html" . }}
+{{ if (.Params.gitment) }}
+<div id="git-comments"></div>
+<link rel="stylesheet" href="https://imsun.github.io/gitment/style/default.css">
+<script src="https://imsun.github.io/gitment/dist/gitment.browser.js"></script>
+<script>
+  var gitment = new Gitment({
+    id: '{{ .Slug }}',  // 可选, 默认为 location.href
+    owner: 'guosenzhao',
+    repo: 'comment1',
+    oauth: {
+      client_id: '33c334109aae08d9905b',
+      client_secret: '1077c3846c25f1feadedd6565eb4f8b06698e3ef',
+    }
+  })
+  gitment.render('git-comments')
+</script>
+{{ end }}

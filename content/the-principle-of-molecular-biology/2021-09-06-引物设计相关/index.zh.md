@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "2021 09 06 引物设计相关"
+title: "引物设计相关"
 subtitle: ""
 summary: ""
 authors: []

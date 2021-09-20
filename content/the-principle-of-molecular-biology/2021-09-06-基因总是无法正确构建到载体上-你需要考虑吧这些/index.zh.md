@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "2021 09 06 基因总是无法正确构建到载体上 你需要考虑吧这些"
+title: "基因总是无法正确构建到载体上 你需要考虑吧这些"
 subtitle: ""
 summary: ""
 authors: []

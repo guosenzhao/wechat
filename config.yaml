@@ -62,7 +62,7 @@ menu:
 params:
   MathJaxCDN: //cdnjs.cloudflare.com/ajax/libs
   MathJaxVersion: 2.7.5
-  description: 记录科研路上的点点滴滴。
+  description: 还有多远，一念之间。
   footer: "&copy; 今日之森 2020 - 2021"
   favicon: favicon.ico
   highlightjsCDN: //cdnjs.cloudflare.com/ajax/libs
@@ -73,8 +73,8 @@ params:
   highlightjsTheme: github
   highlightjsVersion: 9.12.0
   logo:
-    img: /content/logo.png
-    url: /content/logo.png
+    img: 'static/logo/logo.png'
+    url: 'static/logo/logo.png'
     alt: zhaoguosen
     tag: 
 markup:
