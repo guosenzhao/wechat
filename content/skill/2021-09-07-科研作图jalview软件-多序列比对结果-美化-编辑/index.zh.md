@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "2021 09 07 科研作图jalview软件 多序列比对结果 美化 编辑"
+title: "科研作图jalview软件 多序列比对结果 美化 编辑"
 subtitle: ""
 summary: ""
 authors: []
