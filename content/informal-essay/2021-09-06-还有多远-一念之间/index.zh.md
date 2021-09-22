@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "2021 09 06 还有多远 一念之间"
+title: "还有多远 一念之间"
 subtitle: ""
 summary: ""
 authors: []

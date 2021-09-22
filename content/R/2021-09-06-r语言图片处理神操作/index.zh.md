@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "2021 09 06 R语言图片处理神操作"
+title: "R语言图片处理神操作"
 subtitle: ""
 summary: ""
 authors: []

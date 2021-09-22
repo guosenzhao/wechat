@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "2021 09 06 研究生如何从学习中提高自己"
+title: "研究生如何从学习中提高自己"
 subtitle: ""
 summary: ""
 authors: []

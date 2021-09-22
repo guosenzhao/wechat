@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "2021 09 06 Ncbi批量下载基因组信息和序列信息"
+title: "Ncbi批量下载基因组信息和序列信息"
 subtitle: ""
 summary: ""
 authors: []

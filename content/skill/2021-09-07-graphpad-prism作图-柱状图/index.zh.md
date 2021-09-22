@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "2021 09 07 Graphpad Prism作图 柱状图"
+title: "Graphpad Prism作图 柱状图"
 subtitle: ""
 summary: ""
 authors: []

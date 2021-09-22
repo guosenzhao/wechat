@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "2021 09 07 又在我的本科毕业论文中发现了一个bug"
+title: "又在我的本科毕业论文中发现了一个bug"
 subtitle: ""
 summary: ""
 authors: []

@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "2021 09 06 第3天 Linux学习手册 小结"
+title: "第3天 Linux学习手册 小结"
 subtitle: ""
 summary: ""
 authors: []

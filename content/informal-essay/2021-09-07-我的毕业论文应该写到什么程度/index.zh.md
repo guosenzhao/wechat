@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "2021 09 07 我的毕业论文应该写到什么程度"
+title: "我的毕业论文应该写到什么程度"
 subtitle: ""
 summary: ""
 authors: []

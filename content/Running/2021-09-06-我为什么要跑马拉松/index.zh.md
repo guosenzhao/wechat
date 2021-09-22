@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "2021 09 06 我为什么要跑马拉松"
+title: "我为什么要跑马拉松"
 subtitle: ""
 summary: ""
 authors: []

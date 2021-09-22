@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "2021 09 06 如果gff文件出错 如何矫正基因结构注释文件"
+title: "如果gff文件出错 如何矫正基因结构注释文件"
 subtitle: ""
 summary: ""
 authors: []

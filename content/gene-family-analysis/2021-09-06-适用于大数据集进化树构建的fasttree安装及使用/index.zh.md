@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "2021 09 06 适用于大数据集进化树构建的fasttree安装及使用"
+title: "适用于大数据集进化树构建的fasttree安装及使用"
 subtitle: ""
 summary: ""
 authors: []

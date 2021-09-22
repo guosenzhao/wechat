@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "2021 09 06 基因注释文件gff3"
+title: "基因注释文件gff3"
 subtitle: ""
 summary: ""
 authors: []

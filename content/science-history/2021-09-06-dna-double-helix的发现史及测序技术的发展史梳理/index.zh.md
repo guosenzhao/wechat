@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "2021 09 06 Dna Double Helix的发现史及测序技术的发展史梳理"
+title: "Dna Double Helix的发现史及测序技术的发展史梳理"
 subtitle: ""
 summary: ""
 authors: []

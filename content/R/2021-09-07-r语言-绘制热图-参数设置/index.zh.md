@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "2021 09 07 R语言 绘制热图 参数设置"
+title: "R语言 绘制热图 参数设置"
 subtitle: ""
 summary: ""
 authors: []

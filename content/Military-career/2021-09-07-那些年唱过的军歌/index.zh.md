@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "2021 09 07 那些年唱过的军歌"
+title: "那些年唱过的军歌"
 subtitle: ""
 summary: ""
 authors: []

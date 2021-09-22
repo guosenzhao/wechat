@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "2021 09 06 发不了nature 倒是可以试试nature配色"
+title: "发不了nature 倒是可以试试nature配色"
 subtitle: ""
 summary: ""
 authors: []

@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "2021 09 07 R语言 差异表达基因及火山图基本介绍 火山图精修"
+title: "R语言 差异表达基因及火山图基本介绍 火山图精修"
 subtitle: ""
 summary: ""
 authors: []

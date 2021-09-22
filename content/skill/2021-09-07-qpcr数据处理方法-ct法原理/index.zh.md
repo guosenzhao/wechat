@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "2021 09 07 Qpcr数据处理方法 Ct法原理"
+title: "Qpcr数据处理方法 Ct法原理"
 subtitle: ""
 summary: ""
 authors: []

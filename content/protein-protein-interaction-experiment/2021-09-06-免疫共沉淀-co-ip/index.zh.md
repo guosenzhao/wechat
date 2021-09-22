@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "2021 09 06 免疫共沉淀 Co Ip"
+title: "免疫共沉淀 Co Ip"
 subtitle: ""
 summary: ""
 authors: []

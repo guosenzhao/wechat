@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "2021 09 07 R语言 差异表达基因分析 Degs 原始数据处理 火山图绘制"
+title: "R语言 差异表达基因分析 Degs 原始数据处理 火山图绘制"
 subtitle: ""
 summary: ""
 authors: []

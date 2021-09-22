@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "2021 09 07 利用snapgene构建载体 模拟基因克隆 酶切 连接及电泳检测"
+title: "利用snapgene构建载体 模拟基因克隆 酶切 连接及电泳检测"
 subtitle: ""
 summary: ""
 authors: []

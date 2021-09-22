@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "2021 09 06 半马完赛证书 排名250"
+title: "半马完赛证书 排名250"
 subtitle: ""
 summary: ""
 authors: []

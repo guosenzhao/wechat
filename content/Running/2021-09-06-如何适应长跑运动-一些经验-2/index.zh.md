@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "2021 09 06 如何适应长跑运动 一些经验 2"
+title: "如何适应长跑运动 一些经验 2"
 subtitle: ""
 summary: ""
 authors: []

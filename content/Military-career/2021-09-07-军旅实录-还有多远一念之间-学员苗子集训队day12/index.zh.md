@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "2021 09 07 军旅实录 还有多远一念之间 学员苗子集训队day12"
+title: "军旅实录 还有多远一念之间 学员苗子集训队day12"
 subtitle: ""
 summary: ""
 authors: []

@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "2021 09 07 每一位硕博士都应该给自己注册orcid这张研究人员专属 身份证"
+title: "每一位硕博士都应该给自己注册orcid这张研究人员专属 身份证"
 subtitle: ""
 summary: ""
 authors: []

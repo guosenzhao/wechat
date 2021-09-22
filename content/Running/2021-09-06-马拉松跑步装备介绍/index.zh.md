@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "2021 09 06 马拉松跑步装备介绍"
+title: "马拉松跑步装备介绍"
 subtitle: ""
 summary: ""
 authors: []

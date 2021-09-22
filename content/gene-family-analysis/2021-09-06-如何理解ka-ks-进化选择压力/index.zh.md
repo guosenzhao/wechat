@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "2021 09 06 如何理解ka Ks 进化选择压力"
+title: "如何理解ka Ks 进化选择压力"
 subtitle: ""
 summary: ""
 authors: []

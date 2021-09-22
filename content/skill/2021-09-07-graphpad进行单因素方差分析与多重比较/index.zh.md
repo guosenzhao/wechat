@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "2021 09 07 Graphpad进行单因素方差分析与多重比较"
+title: "Graphpad进行单因素方差分析与多重比较"
 subtitle: ""
 summary: ""
 authors: []

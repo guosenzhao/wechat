@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "2021 09 06 文献解读 辛秀芳团队和jones团队 植物免疫通路协同作用的新机制"
+title: "文献解读 辛秀芳团队和jones团队 植物免疫通路协同作用的新机制"
 subtitle: ""
 summary: ""
 authors: []

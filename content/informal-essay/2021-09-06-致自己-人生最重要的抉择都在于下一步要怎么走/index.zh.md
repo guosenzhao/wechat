@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "2021 09 06 致自己 人生最重要的抉择都在于下一步要怎么走"
+title: "致自己 人生最重要的抉择都在于下一步要怎么走"
 subtitle: ""
 summary: ""
 authors: []

@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "2021 09 06 关于跑步"
+title: "关于跑步"
 subtitle: ""
 summary: ""
 authors: []

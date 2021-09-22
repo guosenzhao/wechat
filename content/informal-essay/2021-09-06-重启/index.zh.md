@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "2021 09 06 重启"
+title: "重启"
 subtitle: ""
 summary: ""
 authors: []

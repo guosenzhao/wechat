@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "2021 09 06 物种间共线性circos 作图步骤"
+title: "物种间共线性circos 作图步骤"
 subtitle: ""
 summary: ""
 authors: []

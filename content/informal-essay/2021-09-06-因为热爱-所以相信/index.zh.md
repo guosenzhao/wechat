@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "2021 09 06 因为热爱 所以相信"
+title: "因为热爱 所以相信"
 subtitle: ""
 summary: ""
 authors: []

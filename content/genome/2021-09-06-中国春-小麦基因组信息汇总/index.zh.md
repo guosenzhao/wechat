@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "2021 09 06 中国春 小麦基因组信息汇总"
+title: "中国春 小麦基因组信息汇总"
 subtitle: ""
 summary: ""
 authors: []

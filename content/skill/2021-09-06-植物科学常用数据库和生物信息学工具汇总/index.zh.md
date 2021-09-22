@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "2021 09 06 植物科学常用数据库和生物信息学工具汇总"
+title: "植物科学常用数据库和生物信息学工具汇总"
 subtitle: ""
 summary: ""
 authors: []

@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "2021 09 06 简单的事情往往不容易做好"
+title: "简单的事情往往不容易做好"
 subtitle: ""
 summary: ""
 authors: []

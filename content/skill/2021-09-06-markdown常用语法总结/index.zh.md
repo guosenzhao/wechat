@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "2021 09 06 Markdown常用语法总结"
+title: "Markdown常用语法总结"
 subtitle: ""
 summary: ""
 authors: []

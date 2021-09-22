@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "2021 09 06 蛋白标签 检测 表达和示踪标签 都有哪些"
+title: "蛋白标签 检测 表达和示踪标签 都有哪些"
 subtitle: ""
 summary: ""
 authors: []

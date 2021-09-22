@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "2021 09 06 Linux学习手册 初识linux"
+title: "Linux学习手册 初识linux"
 subtitle: ""
 summary: ""
 authors: []

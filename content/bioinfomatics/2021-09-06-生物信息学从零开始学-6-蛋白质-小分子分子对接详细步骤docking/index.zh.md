@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "2021 09 06 生物信息学从零开始学 6 蛋白质 小分子分子对接详细步骤docking"
+title: "生物信息学从零开始学 6 蛋白质 小分子分子对接详细步骤docking"
 subtitle: ""
 summary: ""
 authors: []

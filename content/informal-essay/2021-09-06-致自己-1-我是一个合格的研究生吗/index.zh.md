@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "2021 09 06 致自己 1 我是一个合格的研究生吗"
+title: "致自己 1 我是一个合格的研究生吗"
 subtitle: ""
 summary: ""
 authors: []

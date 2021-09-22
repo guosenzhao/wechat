@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "2021 09 06 激荡人心的时刻 致敬饶毅教授"
+title: "激荡人心的时刻 致敬饶毅教授"
 subtitle: ""
 summary: ""
 authors: []

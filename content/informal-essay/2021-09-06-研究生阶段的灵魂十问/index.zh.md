@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "2021 09 06 研究生阶段的灵魂十问"
+title: "研究生阶段的灵魂十问"
 subtitle: ""
 summary: ""
 authors: []

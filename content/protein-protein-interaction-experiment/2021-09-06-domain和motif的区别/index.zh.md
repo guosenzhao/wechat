@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "2021 09 06 Domain和motif的区别"
+title: "Domain和motif的区别"
 subtitle: ""
 summary: ""
 authors: []

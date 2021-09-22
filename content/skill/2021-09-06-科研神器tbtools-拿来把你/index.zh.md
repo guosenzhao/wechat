@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "2021 09 06 科研神器tbtools 拿来把你"
+title: "科研神器tbtools 拿来把你"
 subtitle: ""
 summary: ""
 authors: []

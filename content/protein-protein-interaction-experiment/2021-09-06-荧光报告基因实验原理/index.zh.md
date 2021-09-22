@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "2021 09 06 荧光报告基因实验原理"
+title: "荧光报告基因实验原理"
 subtitle: ""
 summary: ""
 authors: []

@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "2021 09 06 如何快速下载论文的参考文献 了解全新领域的文献动态"
+title: "如何快速下载论文的参考文献 了解全新领域的文献动态"
 subtitle: ""
 summary: ""
 authors: []

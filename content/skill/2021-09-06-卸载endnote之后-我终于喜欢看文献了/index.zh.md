@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "2021 09 06 卸载endnote之后 我终于喜欢看文献了"
+title: "卸载endnote之后 我终于喜欢看文献了"
 subtitle: ""
 summary: ""
 authors: []

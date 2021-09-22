@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "2021 09 06 骆利群cell特别评论 拒绝培养 工具人"
+title: "骆利群cell特别评论 拒绝培养 工具人"
 subtitle: ""
 summary: ""
 authors: []

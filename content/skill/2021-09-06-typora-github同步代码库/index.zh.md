@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "2021 09 06 Typora Github同步代码库"
+title: "Typora Github同步代码库"
 subtitle: ""
 summary: ""
 authors: []

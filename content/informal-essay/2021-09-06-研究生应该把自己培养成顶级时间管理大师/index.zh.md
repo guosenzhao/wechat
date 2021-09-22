@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "2021 09 06 研究生应该把自己培养成顶级时间管理大师"
+title: "研究生应该把自己培养成顶级时间管理大师"
 subtitle: ""
 summary: ""
 authors: []

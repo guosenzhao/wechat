@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "2021 09 06 第2天 Linux学习手册 命令的使用"
+title: "第2天 Linux学习手册 命令的使用"
 subtitle: ""
 summary: ""
 authors: []

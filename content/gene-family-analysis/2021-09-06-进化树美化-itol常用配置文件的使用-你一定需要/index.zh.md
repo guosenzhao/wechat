@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "2021 09 06 进化树美化 Itol常用配置文件的使用 你一定需要"
+title: "进化树美化 Itol常用配置文件的使用 你一定需要"
 subtitle: ""
 summary: ""
 authors: []

@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "2021 09 06 基因家族成员的确定1"
+title: "基因家族成员的确定1"
 subtitle: ""
 summary: ""
 authors: []

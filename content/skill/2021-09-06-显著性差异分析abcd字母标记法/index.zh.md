@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "2021 09 06 显著性差异分析abcd字母标记法"
+title: "显著性差异分析abcd字母标记法"
 subtitle: ""
 summary: ""
 authors: []

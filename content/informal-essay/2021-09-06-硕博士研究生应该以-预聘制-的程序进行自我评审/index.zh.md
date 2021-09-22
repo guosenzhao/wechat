@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "2021 09 06 硕博士研究生应该以 预聘制 的程序进行自我评审"
+title: "硕博士研究生应该以 预聘制 的程序进行自我评审"
 subtitle: ""
 summary: ""
 authors: []

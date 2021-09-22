@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "2021 09 06 小时候 我家还种小麦"
+title: "小时候 我家还种小麦"
 subtitle: ""
 summary: ""
 authors: []

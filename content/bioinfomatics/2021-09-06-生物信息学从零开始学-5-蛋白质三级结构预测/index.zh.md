@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "2021 09 06 生物信息学从零开始学 5 蛋白质三级结构预测"
+title: "生物信息学从零开始学 5 蛋白质三级结构预测"
 subtitle: ""
 summary: ""
 authors: []

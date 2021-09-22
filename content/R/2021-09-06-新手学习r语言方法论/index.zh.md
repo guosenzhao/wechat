@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "2021 09 06 新手学习r语言方法论"
+title: "新手学习r语言方法论"
 subtitle: ""
 summary: ""
 authors: []

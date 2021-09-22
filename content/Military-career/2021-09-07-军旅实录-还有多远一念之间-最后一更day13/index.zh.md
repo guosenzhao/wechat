@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "2021 09 07 军旅实录 还有多远一念之间 最后一更day13"
+title: "军旅实录 还有多远一念之间 最后一更day13"
 subtitle: ""
 summary: ""
 authors: []

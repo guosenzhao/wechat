@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "2021 09 06 植物先天免疫系统长期悬而未决的pti与eti相似性之谜"
+title: "植物先天免疫系统长期悬而未决的pti与eti相似性之谜"
 subtitle: ""
 summary: ""
 authors: []

@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "2021 09 06 要低头苦干 更要仰望星空"
+title: "要低头苦干 更要仰望星空"
 subtitle: ""
 summary: ""
 authors: []

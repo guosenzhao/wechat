@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "2021 09 06 多重序列比对软件mafft的安装及使用"
+title: "多重序列比对软件mafft的安装及使用"
 subtitle: ""
 summary: ""
 authors: []

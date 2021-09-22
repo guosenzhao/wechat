@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "2021 09 06 关于水稻基因组信息"
+title: "关于水稻基因组信息"
 subtitle: ""
 summary: ""
 authors: []

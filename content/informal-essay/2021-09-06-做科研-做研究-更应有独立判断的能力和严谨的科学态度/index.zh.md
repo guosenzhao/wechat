@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "2021 09 06 做科研 做研究 更应有独立判断的能力和严谨的科学态度"
+title: "做科研 做研究 更应有独立判断的能力和严谨的科学态度"
 subtitle: ""
 summary: ""
 authors: []

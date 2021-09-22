@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "2021 09 06 我们何其相似 又何其不同"
+title: "我们何其相似 又何其不同"
 subtitle: ""
 summary: ""
 authors: []

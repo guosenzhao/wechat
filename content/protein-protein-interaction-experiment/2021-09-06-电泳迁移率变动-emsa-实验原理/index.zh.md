@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "2021 09 06 电泳迁移率变动 Emsa 实验原理"
+title: "电泳迁移率变动 Emsa 实验原理"
 subtitle: ""
 summary: ""
 authors: []

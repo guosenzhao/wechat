@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "2021 09 07 Genedoc软件 让你毕业论文中的多序列比对结果清晰到爆"
+title: "Genedoc软件 让你毕业论文中的多序列比对结果清晰到爆"
 subtitle: ""
 summary: ""
 authors: []

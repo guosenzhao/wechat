@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "2021 09 06 研究生阶段关于发文章的幻想和错觉"
+title: "研究生阶段关于发文章的幻想和错觉"
 subtitle: ""
 summary: ""
 authors: []
