@@ -58,7 +58,9 @@ menu:
     - name: 军旅生涯
       url: /Military-career
       weight: 15
-
+    - name: Protocols
+      url: /protocols
+      weight: 16
 params:
   MathJaxCDN: //cdnjs.cloudflare.com/ajax/libs
   MathJaxVersion: 2.7.5
