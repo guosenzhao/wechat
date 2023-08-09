@@ -1,0 +1,4 @@
+{
+  "message": "config.yaml:1:10: unexpected '/'\n1: baseurl: /\n             ^",
+  "traceback": []
+}
