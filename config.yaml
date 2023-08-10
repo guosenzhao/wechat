@@ -65,7 +65,11 @@ params:
   MathJaxCDN: //cdnjs.cloudflare.com/ajax/libs
   MathJaxVersion: 2.7.5
   description: 还有多远，一念之间。
+<<<<<<< HEAD
   footer: "&copy; 今日之森 2020 - 2021"
+=======
+  footer: "&copy; 今日之森 2020 - 2023"
+>>>>>>> main
   favicon: favicon.ico
   highlightjsCDN: //cdnjs.cloudflare.com/ajax/libs
   disqusURL: "https://academic-demo.netlify.app/"
